@@ -126,8 +126,8 @@ html{
     position: absolute;
     top: -1rem;
     left: 0;
-    transform: skewY(45deg);
-    transform-origin: right;
+    transform: skewX(45deg);
+    transform-origin: bottom;
     box-shadow: -.1rem -.1rem 1rem #000;
 }
 

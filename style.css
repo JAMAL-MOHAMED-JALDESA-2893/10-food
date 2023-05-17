@@ -72,4 +72,8 @@ html{
     width: 30rem;
     background-color: #a79a2d;
 }
+
+.card-img{
+    width: 100%;
+}
 /* End of section-2 */

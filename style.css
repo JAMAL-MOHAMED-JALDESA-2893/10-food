@@ -67,4 +67,9 @@ html{
     display: flex;
     justify-content: space-evenly;
 }
+
+.card{
+    width: 30rem;
+    background-color: #a79a2d;
+}
 /* End of section-2 */
